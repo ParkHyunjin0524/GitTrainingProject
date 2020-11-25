@@ -8,5 +8,8 @@
 </head>
 <body>
     <h2>Git 사용하기 수업~</h2>
+    <fieldset>
+    	<legend>경로변경후 다시서장</legend>
+    </fieldset>
 </body>
 </html>
