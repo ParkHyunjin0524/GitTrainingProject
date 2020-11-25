@@ -10,6 +10,9 @@
     <h2>Git 사용하기 수업~</h2>
     <fieldset>
     	<legend>깃 허브 연동 </legend>
+    	<ul>
+    		<li>자바</li>
+    	</ul>
     </fieldset>
 </body>
 </html>
