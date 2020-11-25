@@ -9,11 +9,7 @@
 <body>
     <h2>Git 사용하기 수업~</h2>
     <fieldset>
-    	<legend>깃 허브 연동 </legend>
-    	<ul>
-    		<li>자바</li>
-    		<li>스프링</li>
-    	</ul>
+    	<legend>경로변경후 다시서장</legend>
     </fieldset>
 </body>
 </html>
